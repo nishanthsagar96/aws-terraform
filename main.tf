@@ -7,5 +7,5 @@ provider "aws"{
 
 
 resource "aws_s3_bucket" "bucket" {
-  bucket = "terraform459802380"
+  bucket = "terraform4598023811"
 }
